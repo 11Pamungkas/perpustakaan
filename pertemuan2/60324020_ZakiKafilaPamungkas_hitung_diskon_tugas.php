@@ -14,7 +14,7 @@
 
         <?php
         // TODO: Isi data pembeli dan buku di sini
-        $nama_pembeli = "Zaki Musyaffa";
+        $nama_pembeli = "Zaki Kafila Pamungkas";
         $judul_buku = "Laravel Advanced";
         $harga_satuan = 150000;
         $jumlah_beli = 4;

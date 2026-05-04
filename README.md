@@ -12,9 +12,9 @@ P1: Kontrak Kuliah & Pengenalan PHP
 
 P2: Dasar PHP
 1. Modifikasi Halaman Info Buku
-    * Tag: `60324021_MuhammadZakiMusyaffa_info_buku_tugas.php`
+    * Tag: `60324020_ZakiKafilaPamungkas_info_buku_tugas.php`
 2. Sistem Perhitungan Diskon Bertingkat
-    * Tag: `60324021_MuhammadZakiMusyaffa_hitung_diskon_tugas.php`
+    * Tag: `60324020_ZakiKafilaPamungkas_hitung_diskon_tugas.php`
 
 P3: Kontrol Alur Program
 1. Sistem Status Peminjaman

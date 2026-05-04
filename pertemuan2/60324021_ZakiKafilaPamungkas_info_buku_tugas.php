@@ -27,7 +27,7 @@
         $berat1 = 450;
 
         $judul2 = "Mastering MySQL Database";
-        $pengarang2 = "Zaki Musyaffa";
+        $pengarang2 = "Zaki Kafila Pamungkas";
         $penerbit2 = "Gramedia";
         $tahun_terbit2 = 2024;
         $harga2 = 150000;
@@ -51,7 +51,7 @@
         $berat3 = 300;
 
         $judul4 = "Trik Membuat Website dalam 30 hari dengan HTML & CSS untuk pemula";
-        $pengarang4 = "Murfid Arafi";
+        $pengarang4 = "ardiansyah";
         $penerbit4 = "Bentang Pustaka";
         $tahun_terbit4 = 2025;
         $harga4 = 180000;

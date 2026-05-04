@@ -43,7 +43,7 @@
                 ?>
 
                 <h3>Selamat Datang!</h3>
-                <p><strong>Dibuat oleh: </strong> <?php echo "Muhammad Zaki Musyaffa"; ?></p>
+                <p><strong>Dibuat oleh: </strong> <?php echo "Zaki Kafila Pamungkas"; ?></p>
                 <p><strong>Tanggal: </strong> <?php echo date('d F Y'); ?></p>
                 <p><strong>Waktu Server: </strong> <?php echo date('l, H:i:s'); ?></p>
                 <p><strong>Alamat Perpustakaan: </strong> <?php echo $alamat_perpus; ?></p>
